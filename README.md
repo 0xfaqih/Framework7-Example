@@ -11,6 +11,6 @@ Requirements:
   - Gradle
 
 Make build:
-  - Move the source code to the cordova\www directory. 
+  - Move the source code to the cordova/www directory. 
   - Run the "cordova build android" command there. 
-  - You should see the results in the directory platforms/android/app/build/outputs/apk.
+  - You should see the results in the directory `platforms/android/app/build/outputs/apk`.
